@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test this file with amendadad
 asdasdasdas
 asd
@@ -12,3 +13,7 @@ dsa
 
 
 
+=======
+test this file with amenafcds
+feaure3
+>>>>>>> 0840707a4961e6d9a219807cb3db46298838955c
